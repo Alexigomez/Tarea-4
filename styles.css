@@ -1,0 +1,50 @@
+.Fondo{
+    width: 97vw;
+    height: 93vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.For{
+    position: absolute;
+    top: 0;
+    left: 35%;
+    width: 30%;
+    height: 68%;
+    margin: 100px auto;
+    border: 1px solid #20010149;
+    padding: px;
+    background-color: rgba(167, 159, 159, 0.7);
+    border-radius: 10px; 
+     color: #131212; 
+    font-family: Arial, sans-serif; 
+    font-size: 22px; 
+    font-weight: bold;
+}
+.Boton{
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    width: 30%;
+    height: 30%;
+    margin: 100px auto;
+
+}
+.logo{
+    position: absolute;
+    top: 28%;
+    left: 43%;
+    display: flex;
+    border-radius: 32px;
+    width: 30px;
+    height: auto;
+}
+.usu{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    display: flex;
+    width: 70px;
+    height: auto;
+}
